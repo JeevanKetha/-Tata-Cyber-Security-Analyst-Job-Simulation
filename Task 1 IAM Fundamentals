@@ -1,0 +1,17 @@
+ Task 1 IAM Fundamentals
+1.What is the primary role of IAM in cybersecurity?
+Ans:Protecting digital identities and managing access
+2.Which IAM component enforces strict control over user access based on their roles and responsibilities?
+Ans:Role-based access control (RBAC)
+3.What does MFA require for user authentication?
+Ans:Two or more authentication factors
+4.In which industry did the first case study demonstrate the use of IAM to prevent data breaches?
+Ans:Healthcare
+5.What was the primary security challenge faced in the financial institution case study?
+Ans:Insider fraud and data breaches
+6.Which IAM component not only enforces strict access control based on roles but also maintains detailed records of user activities and access attempts?
+Ans:Access governance
+7.In the healthcare case study, implementing IAM resulted in a significant reduction in what specific type of incident related to unauthorised access?
+Ans:Unauthorised access incidents
+8.In the financial institution case study, how did IAM primarily enhance security to prevent insider fraud and data breaches in the financial institution?
+Ans:Strengthened authentication with MFA
