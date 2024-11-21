@@ -1,0 +1,6 @@
+Task 2 IAM strategy assessment
+
+1.What is the primary goal when evaluating an enterprise's IAM strategy?
+Ans:Aligning IAM initiatives with broader business objectives
+2.Which of the following is a key consideration when implementing IAM in different organisational contexts?
+Ans:The size of the organisation
